@@ -4,8 +4,33 @@
 
 <!-- GFM-TOC -->
 * [Trouble and trouble shooting](#Trouble-and-trouble-shooting)
+    * [Water level nondetected Nov. 2021](#Water-level-nondetected-Nov.-2021)
     * [Temperature instability Dec. 2021](#Temperature-instability-Dec.-2021)
 <!-- GFM-TOC -->
+
+
+## Water level nondetected Nov. 2021
+problem:
+
+trouble shooting: disable the floating sensor, blue or red cable?
+remaining issue: since the low water level sensor is disabled, we should always keep an eye in case the chiller needs to be refilled. 
+
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
+blabla
 
 ## Temperature instability Dec. 2021
 We have a Solid State Recirculating Chiller T225P from ThermoTek. Recently, the chiller started failing to stabilize at the set temperature. The temperature indicator shows a reading fluctuating between 18C and 20C, when the set is 19C, while the fluctuation range was as good as +-0.1C. There are probably something wrong. 
