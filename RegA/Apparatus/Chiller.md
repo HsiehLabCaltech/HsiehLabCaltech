@@ -3,8 +3,8 @@
 
 
 <!-- GFM-TOC -->
-* [Trouble and trouble shooting](#Trouble and trouble shooting)
-    * [Temperature instability Dec. 2021](#Temperature instability Dec. 2021)
+* [Trouble and trouble shooting](#Trouble-and-trouble-shooting)
+    * [Temperature instability Dec. 2021](#Temperature-instability-Dec.-2021)
 <!-- GFM-TOC -->
 
 ## Temperature instability Dec. 2021
